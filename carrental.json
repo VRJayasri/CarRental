@@ -5,8 +5,8 @@
       "title":"alto car",
       "name": "Alto K10",
       "image": "https://tse1.mm.bing.net/th?id=OIP._Nux13UiygjFI_fQmeO4pgHaEK&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
-      "details": "4 seats | 33.4 Km/Kg Milage",
+      "price_per_day": "500/day",
+      "details": "4 seats | 24.9kmpl Milage | Petrol",
       "button_text": "Rent",
       "link": "Personalinfo"
     },
@@ -15,8 +15,8 @@
       "title":"tata car",
       "name": "TATA Tiago",
       "image": "https://tse4.mm.bing.net/th?id=OIP.iREEvBJx0VDsXGPvSx_zKwHaGX&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
-      "details": "4 seats | 33.4 Km/Kg Milage",
+      "price_per_day": "500/day",
+      "details": "4 seats | 27.28kmpl Milage | Diesel",
       "button_text": "Get Car",
       "link": "personalinfo"
     },
@@ -26,17 +26,17 @@
       "name": "Hyundai i20",
       "image": "https://tse3.mm.bing.net/th?id=OIP.FpD74Y13OpyAZvt3ItEhoAHaE8&pid=Api&P=0&h=180",
       "price_per_day": "Rs 500/day",
-      "details": "",
+      "details": "5 seats | 25 kmpl | Diesel",
       "button_text": "Rent",
-      "link": ""
+      "link": "personalinfo"
     },
     {
       "id":4,
       "title":"renault car",
       "name": "Renault Kwid",
       "image": "https://tse4.mm.bing.net/th?id=OIP.BLnCe4zo5aS44N2vZ6I7TwHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
-      "details": "4 seats | 33.4 Km/Kg Milage",
+      "price_per_day": "500/day",
+      "details": "5 seats | 22.3kmpl Milage | Petrol",
       "button_text": "Rent",
       "link": "personalinfo"
     },
@@ -45,19 +45,19 @@
       "title":"mg car",
       "name": "MG Cornet EV",
       "image": "https://tse1.mm.bing.net/th?id=OIP.uuIAI36PaQ8TLlmwUXf0VwHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
-      "details": "4 seats | 33.4 Km/Kg Milage",
-      "button_text": "Get Car",
+      "price_per_day": "800/day",
+      "details": "4 seats | 230km on single charge | Electrical",
+      "button_text": "Rent",
       "link": "personalinfo"
     },
     {
       "id":6,
       "title":"maruti car",
-      "name": "Maruti Suzuki Swift",
+      "name": "Maruti Suzuki Swift 2023",
       "image": "https://tse3.mm.bing.net/th?id=OIP.4vHjCqd27UFR46EKg-o6XQHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
-      "details": "4 seats | 33.4 Km/Kg Milage",
-      "button_text": "Get Car",
+      "price_per_day": "500/day",
+      "details": "5 seats | 25.75 kmpl Milage | Petrol",
+      "button_text": "Rent",
       "link": "personalinfo"
     },
     {
@@ -65,9 +65,9 @@
       "title":"mahindra car",
       "name": "Mahindra Thar",
       "image": "https://tse2.mm.bing.net/th?id=OIP.oUl28Dm6pJufIE2M93bE3gHaFD&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
-      "button_text": "Get Car",
+      "button_text": "Rent",
       "link": "personalinfo"
     },
     {
@@ -75,9 +75,9 @@
       "title":"bajaj car",
       "name": "Bajaj Qute(RE60)",
       "image": "https://tse1.mm.bing.net/th?id=OIP.HhBVjFSEi8fpLjDbBjck6gHaFA&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
-      "button_text": "Get Car",
+      "button_text": "Rent",
       "link": "personalinfo.html"
     },
     {
@@ -85,7 +85,7 @@
       "title":"hyundai car",
       "name": "Hyundai Creta",
       "image": "https://tse4.mm.bing.net/th?id=OIP.HHgsZol10P5joMeNignFeAHaFr&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -95,7 +95,7 @@
       "title":"kia car",
       "name": "Kia Seltos",
       "image": "https://tse1.mm.bing.net/th?id=OIP.v9VXZ_3AjzB_uvmbkI-MMQHaEK&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -105,7 +105,7 @@
       "title":"maruthi car",
       "name": "Maruti Suzuki Grand Vitara",
       "image": "https://tse1.mm.bing.net/th?id=OIP.9pf6drVOBFd1i8Xn_WfYNwHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -125,7 +125,7 @@
       "title":"hyundai car",
       "name": "Hyundai Verna",
       "image": "https://tse1.mm.bing.net/th?id=OIP.18ZrMo3z1ACln4yxv3WmmgHaDz&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -135,7 +135,7 @@
       "title":"tata car",
       "name": "Tata Nexon",
       "image": "https://tse4.mm.bing.net/th?id=OIP.u-7FBzrCjBo5PiM0rzf1CwHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -145,7 +145,7 @@
       "title":"toyoto car",
       "name": "Toyoto Innova Hycross",
       "image": "https://tse3.mm.bing.net/th?id=OIP.VmmiaCkTbZzuKvpzdbqPIgHaEK&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -155,7 +155,7 @@
       "title":"mahindra car",
       "name": "Mahindra Marazzo",
       "image": "https://tse4.mm.bing.net/th?id=OIP.si_w-QRlbrwb49JkK3oP5AHaEK&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -165,7 +165,7 @@
       "title":"kia car",
       "name": "Kia Carnival",
       "image": "https://tse4.mm.bing.net/th?id=OIP.rgQPlD7YVpVkA4dM5BN3AgAAAA&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -175,7 +175,7 @@
       "title":"rover car",
       "name": "Land Rover Defender",
       "image": "https://tse2.mm.bing.net/th?id=OIP.rg_FT8f7TvVUFbPKjyubAwHaE8&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -185,7 +185,7 @@
       "title":"mahindra car",
       "name": "Mahindra Scorpio N",
       "image": "https://tse3.mm.bing.net/th?id=OIP.uIwlczoa4yo38nZ-FtFQAwHaEK&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -195,7 +195,7 @@
       "title":"alto car",
       "name": "Hyundai Alcazar",
       "image": "https://tse4.mm.bing.net/th?id=OIP.oXf6N7BG9qUmO0JaCU7kwQHaE6&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "4 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
@@ -205,7 +205,7 @@
       "title":"alto car",
       "name": "Maruti Suzuki XL6",
       "image": "https://tse2.mm.bing.net/th?id=OIP.sZ1DPrxLw8MDmU7hFB2AmAHaEo&pid=Api&P=0&h=180",
-      "price_per_day": "Rs 500/day",
+      "price_per_day": "500/day",
       "details": "6 seats | 33.4 Km/Kg Milage",
       "button_text": "Rent",
       "link": "personalinfo"
