@@ -20,16 +20,7 @@
       "button_text": "Get Car",
       "link": "personalinfo"
     },
-    {
-      "id":3,
-      "title":"hyundai car",
-      "name": "Hyundai i20",
-      "image": "https://tse3.mm.bing.net/th?id=OIP.FpD74Y13OpyAZvt3ItEhoAHaE8&pid=Api&P=0&h=180",
-      "price_per_day": "700/day",
-      "details": "5 seats | 25 kmpl | Diesel",
-      "button_text": "Rent",
-      "link": "personalinfo"
-    },
+    
     {
       "id":4,
       "title":"renault car",
@@ -207,6 +198,16 @@
       "image": "https://tse2.mm.bing.net/th?id=OIP.sZ1DPrxLw8MDmU7hFB2AmAHaEo&pid=Api&P=0&h=180",
       "price_per_day": "500/day",
       "details": "6 seats | 20.97 Kmpl Milage | Petrol and CNG options",
+      "button_text": "Rent",
+      "link": "personalinfo"
+    },
+    {
+      "id":3,
+      "title":"hyundai car",
+      "name": "Hyundai i20",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.FpD74Y13OpyAZvt3ItEhoAHaE8&pid=Api&P=0&h=180",
+      "price_per_day": "700/day",
+      "details": "5 seats | 25 kmpl | Diesel",
       "button_text": "Rent",
       "link": "personalinfo"
     }
